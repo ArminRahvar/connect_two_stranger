@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.10.0
+loguru==0.6.0
+emoji==2.8.0
+pymongo==4.5.0
